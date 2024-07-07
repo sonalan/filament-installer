@@ -26,7 +26,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Laravel\\Installer\\Console\\": "src/"
+            "Filament\\Installer\\Console\\": "src/"
         }
     },
     "autoload-dev": {
